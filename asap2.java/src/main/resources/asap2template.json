@@ -1,0 +1,20 @@
+{
+  "ASAP2_VERSION": {
+    "VersionNo": "1",
+    "UpgradeNo": "60"
+  },
+  "A2ML_VERSION": {
+    "VersionNo": "1",
+    "UpgradeNo": "31"
+  },
+  "PROJECT": {
+    "Name": "",
+    "LongIdentifier": "",
+    "HEADER": {
+      "Comment": ""
+    },
+    "MODULE": [{
+
+    }]
+  }
+}

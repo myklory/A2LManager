@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A2LManager.iml" filepath="$PROJECT_DIR$/A2LManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebEditor/WebEditor.iml" filepath="$PROJECT_DIR$/WebEditor/WebEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asap2.java/asap2.java.iml" filepath="$PROJECT_DIR$/asap2.java/asap2.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asap2.server/asap2.server.iml" filepath="$PROJECT_DIR$/asap2.server/asap2.server.iml" />
+    </modules>
+  </component>
+</project>
