@@ -19,8 +19,8 @@ export  function getAsap2A2L() {
 export function getAsap2Template() {
   return new Promise( function (resolve, reject) {
     $.get("http://localhost:8080/api/asap2/template", function (result, status) {
-      console.log(status);
       if ( status === 'success'){
+        console.log(result);
         resolve(result);
       }
       else {

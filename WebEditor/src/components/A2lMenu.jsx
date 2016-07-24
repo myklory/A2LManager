@@ -27,12 +27,12 @@ export default class A2lMenu extends React.Component{
       }
     }.bind(this));*/
     getAsap2A2L().then((value) => {
-      console.log(value);
+//      console.log(value);
       this.setState({ a2llist: value });
     })
 
     getAsap2Template().then((value) => {
-      console.log(value);
+//      console.log(value);
       this.setState({ a2ltemplate: value });
     })/*.catch( (error) => {
       console.log(error);
@@ -41,7 +41,7 @@ export default class A2lMenu extends React.Component{
   }
 
   callBack(a2llist) {
-    console.log(a2llist);
+//    console.log(a2llist);
     this.setState({a2llist: a2llist});
   }
 
